@@ -1,4 +1,7 @@
 # Beyond The Buzz
+## Author
+
+- [rock42069](https://www.github.com/rock42069)
 
 ## Data Preprocessing
 
